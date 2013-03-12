@@ -21,5 +21,4 @@ exports.queryMetadata = function(req,res){
     }
 };
 var _queryMetadata = function(req,res){
-
 };
