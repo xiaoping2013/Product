@@ -1,4 +1,4 @@
-var async = require('async'),
-  , url = require('url')
-  , util = require('util')
-  , mongo =require('mongodb');
+var async = require('async')
+,   util = require('util')
+,   url = require('url')
+,   mongo = require('mongodb');
